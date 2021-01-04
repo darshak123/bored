@@ -1,0 +1,6 @@
+framework module Pods_Holiday_FriendsTests {
+  umbrella header "Pods-Holiday FriendsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
